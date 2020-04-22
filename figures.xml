@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<StatisticList>
+	<Number>
+		<Title>Заявки</Title>
+		<Total>254</Total>
+		<Done>6589</Done>
+	</Number>
+	<Number>
+		<Title>Тендеры</Title>
+		<Total>17</Total>
+		<Done>129</Done>
+	</Number>
+	<Number>
+		<Title>Аукционы</Title>
+		<Total>22</Total>
+		<Done>305</Done>
+	</Number>
+	<Number>
+		<Title>Договора</Title>
+		<Total>22</Total>
+		<Done>352</Done>
+	</Number>
+	<Number>
+		<Title>Заказы</Title>
+		<Total>178</Total>
+		<Done>5798</Done>
+	</Number>
+</StatisticList>
